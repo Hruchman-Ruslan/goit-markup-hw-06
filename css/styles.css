@@ -949,6 +949,7 @@
         outline: 1px solid var(--background--button--hero);
     }
     .form-icon {
+        fill: var(--button--color);
         position: absolute;
         top: 50%;
         left: 12px;
