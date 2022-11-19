@@ -1001,8 +1001,6 @@
     /* ----------------------- */
 
     .modal-checkbox {
-        -moz-appearance: none;
-        -webkit-appearance: none; 
         appearance: none;
 
         width: 16px;
